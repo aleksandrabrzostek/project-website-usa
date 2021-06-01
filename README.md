@@ -3,5 +3,5 @@
 * This project is a simple page about my trip around USA.
 * Language: polish
 ## Link
-* https://olciabrzostek.github.io/usa-trip-project/
+* https://aleksandrabrzostek.github.io/project-website-usa/
 
